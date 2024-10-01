@@ -1,0 +1,26 @@
+body{
+    margin: 50px;
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, #651758 , #311562, #1b1834);
+}
+h2{
+    color: #ff1675;
+    font-size: 18px;
+}
+p{
+    color: white;
+
+}
+h1{
+    font-size: 48px;
+    color: white;
+}
+a{
+    background-color: #ff1675;
+    padding: 15px;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 50px;
+    font-size: 12px;
+}
